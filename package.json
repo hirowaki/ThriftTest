@@ -1,0 +1,13 @@
+{
+  "author": "hirowaki",
+  "name": "TriftTest",
+  "description": "TriftTest",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=v0.10.0"
+  },
+  "dependencies": {
+    "lodash": "*",
+    "bluebird": "*"
+  }
+}
