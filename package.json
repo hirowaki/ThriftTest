@@ -6,8 +6,15 @@
   "engines": {
     "node": ">=v0.10.0"
   },
+  "run": {
+    "lint": "eslint ./"
+  },
   "dependencies": {
     "lodash": "*",
-    "bluebird": "*"
+    "bluebird": "*",
+    "thrift": "0.9.3"
+  },
+  "devDependencies": {
+    "eslint": "*"
   }
 }
