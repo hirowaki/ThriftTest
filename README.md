@@ -9,8 +9,15 @@ Preparation
 > make thrift
 ```
 
-#### simplePack.js
-sample for serialize/deserialize.
+#### test
 ```
-node simplePack.js
+npm test
 ```
+
+#### module
+|  |  |  |
+| ---------- | ---------- | ---------- |
+| serialzer.js | serialize | serialize ThriftObject to binary |
+| | deserialize | deserialize ThriftObject from binary |
+
+
