@@ -6,6 +6,9 @@
   "engines": {
     "node": ">=v0.10.0"
   },
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha ./test"
+  },
   "run": {
     "lint": "eslint ./"
   },
@@ -15,6 +18,7 @@
     "thrift": "0.9.3"
   },
   "devDependencies": {
-    "eslint": "*"
+    "eslint": "*",
+    "mocha": "*"
   }
 }
