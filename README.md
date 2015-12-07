@@ -15,7 +15,7 @@ npm test
 ```
 
 #### module
-|  |  |  |
+| module |  func | desc |
 | ---------- | ---------- | ---------- |
 | serialzer.js | serialize | serialize ThriftObject to binary |
 | | deserialize | deserialize ThriftObject from binary |
