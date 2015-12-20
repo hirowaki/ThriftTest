@@ -1,6 +1,6 @@
 # ThriftTest
 
-### Thrift sample program for node.js (v0.10.30)
+### Thrift sample program for node.js (v4.2.1)
 
 Preparation
 ```
